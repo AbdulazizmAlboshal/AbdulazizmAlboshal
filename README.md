@@ -1,4 +1,4 @@
-- Hi, I’m Abdulaziz Alboshal @AbdulazizmAlboshal And I'm Management Information System fresh graduate.
+- Hi, I’m Abdulaziz Alboshal @AbdulazizmAlboshal And I have graduated in Management Information System from Jubail University College.
 - I’m interested in Business And Data Analysis.
 - I'm certified Business Analyst by the International Institute of Business Analysis (IIBA).
 - I Took Business Analytics Nanodegree Program with Udacity.
